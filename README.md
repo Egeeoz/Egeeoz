@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying for javascript developer and doing internship at We Know IT
+I am currently working as Fullstack developer at We Know IT
 
 
 ## 🌐 Socials:
