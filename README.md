@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as Fullstack developer at We Know IT
+24 year old Fullstack developer
 
 
 ## 🌐 Socials:
